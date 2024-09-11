@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **new technologies and improving existing ones.**
 
-- 🌱 I’m currently learning **Web Development, App Development, and DSA.**
+- 🌱 I’m currently learning **Web Development and DSA.**
 
 - 👯 I’m looking to collaborate on **interesting ideas.**
 
