@@ -7,7 +7,7 @@
 </h1>
 <h3 align="center">
   <a href="https://github.com/Shashwat-Pandey-55">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=28&color=3AC1EF&lines=Welcome+to+my+GitHub+profile!&center=true&width=500&height=50&duration=3000&pause=1000" alt="Welcome to my GitHub profile!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=28&color=3AC1EF&lines=Welcome+to+my+GitHub+Profile!&center=true&width=500&height=50&duration=3000&pause=1000" alt="Welcome to my GitHub Profile!" />
   </a>
 </h3>
 
