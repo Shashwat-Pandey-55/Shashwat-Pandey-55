@@ -105,8 +105,8 @@
 <br>
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Shashwat-Pandey-55&show_icons=true&theme=tokyonight" alt="Shashwat-Pandey-55"/>
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Shashwat-Pandey-55&theme=tokyonight" alt="Shashwat-Pandey-55"/>
+  <!-- <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Shashwat-Pandey-55&show_icons=true&theme=tokyonight" alt="Shashwat-Pandey-55"/> -->
+  <!-- <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Shashwat-Pandey-55&theme=tokyonight" alt="Shashwat-Pandey-55"/> -->
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shashwat-Pandey-55&layout=compact&theme=tokyonight" alt="Shashwat-Pandey-55"/>
 </p>
 <br>
