@@ -1,7 +1,6 @@
 <p align="center">
     <!-- <img src="https://github.com/Shashwat-Pandey-55/Shashwat-Pandey-55/blob/main/Person%20coding.png?raw=true" height="30%" width="30%"/> -->
-    <!-- <img src="https://i.pinimg.com/736x/76/21/c4/7621c4aba8d16065242494ca15c7f1e9.jpg?raw=true" height="30%" width="30%"/> -->
-    <img src="[https://i.pinimg.com/736x/76/21/c4/7621c4aba8d16065242494ca15c7f1e9.jpg](https://i.pinimg.com/1200x/ea/c9/95/eac99520f99c561fb9b3bc1fc70c8432.jpg)?raw=true" height="30%" width="30%"/>
+    <img src="https://i.pinimg.com/736x/76/21/c4/7621c4aba8d16065242494ca15c7f1e9.jpg?raw=true" height="30%" width="30%"/>
 </p>
 
 <h1 align="center">
