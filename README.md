@@ -105,7 +105,7 @@
 <br>
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashwat-Pandey-55&show_icons=true&locale=en&layout=compact" alt="Shashwat-Pandey-55"/>
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashwat-Pandey-55&show_icons=true&locale=en&layout=compact" alt="Shashwat-Pandey-55"/> -->
 </p>
 <br>
 
