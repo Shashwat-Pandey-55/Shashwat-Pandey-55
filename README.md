@@ -22,15 +22,15 @@
 <img src="https://github.com/Shashwat-Pandey-55/Shashwat-Pandey-55/blob/main/Gif.gif?raw=true" align="right" width="240">
 <br>
 
-- 🔭 I’m currently working on **new technologies and improving existing ones.**
+- 🔭Current Focus: Architecting robust **full-stack applications and optimizing performance**.
 
-- 🌱 I’m currently learning **Web Development and DSA.**
+- 🌱Learning: **Data Structures & Algorithms (DSA)** and **System Design**.
 
-- 👯 I’m looking to collaborate on **interesting ideas.**
+- 👯Collaboration: Open to contributing to innovative Open Source projects or startup ideas.
 
 - 📫 Reach out to me at **pshashwat99b360@gmail.com**
 
-- ⚡ Fun fact **I love to play guitar.**
+- ⚡ Fun fact **I live for clean code and heavy riffs. If I’m not hunting down a bug in the terminal, I’m probably chasing a melody on my Guitar.**
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
