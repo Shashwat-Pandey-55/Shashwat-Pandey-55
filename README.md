@@ -13,9 +13,9 @@
   </a>
 </h3>
 
- <p align="left">
+  <!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Shashwat-Pandey-55&label=Profile%20views&color=0e75b6&style=flat" alt="Shashwat-Pandey-55" />
-</p> -->
+</p>-->
 <p>
   I am a Full Stack Web Developer passionate about exploring new technologies. Currently, I am a pre-final-year student pursuing B.E. in Chemical Engineering and M.Sc in Biological Sciences at BITS Pilani.
 </p>
