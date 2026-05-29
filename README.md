@@ -80,8 +80,6 @@
 </p>
 <br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashwat-Pandey-55&theme=github_dark)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/shashwat-pandey-a80b84236/" target="_blank">
